@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title">Make everyday decisions easier!!</string>
+    <string name="button">ASK</string>
+    <string name="description1">8 ball fortune tellers lol</string>
+    <string name="background">Just some random background color</string>
 </resources>
