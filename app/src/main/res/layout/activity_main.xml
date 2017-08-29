@@ -13,8 +13,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentTop="false"
-        app:srcCompat="@android:color/holo_blue_bright"
-        android:contentDescription="@string/background"/>
+        android:contentDescription="@string/background"
+        app:srcCompat="@android:color/holo_orange_light"/>
 
     <ImageView
         android:id="@+id/ball"
@@ -35,7 +35,7 @@
         android:layout_below="@+id/ball"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
-        android:background="@android:color/holo_red_dark"
+        android:background="#d01818"
         android:text="@string/button"
         android:textColor="@android:color/background_light"/>
 
@@ -46,7 +46,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="35dp"
-        android:background="@color/colorPrimaryDark"
+        android:background="#e12828"
         android:text="@string/title"
         android:textAlignment="center"
         android:textColor="@android:color/background_light"
